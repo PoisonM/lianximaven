@@ -7,4 +7,15 @@ package com.example.demo.test1;
  * @create: 2018-11-23 10:03
  **/
 public class test {
+    /**
+     * @param: a
+     * @param: b
+     * @param: c
+     * @return int
+     * @author Mr.Miao
+     * @date 2018/11/23
+     */
+    public int tset111(String a,String b,int c){
+        return c;
+    }
 }
